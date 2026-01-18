@@ -45,6 +45,7 @@ public class DatabaseStore implements Store {
         );
     }
 
+    
     private ResultSet query() throws SQLException {
         return connection.createStatement().executeQuery("SELECT title, releaseYear, duration FROM movies");
     }
