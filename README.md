@@ -1,2 +1,2 @@
-# kata5
-kata 5 IS2 SAMUEL DÍAZ GONZÁLEZ
+# kata6
+kata 6 IS2 SAMUEL DÍAZ GONZÁLEZ
